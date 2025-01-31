@@ -1,0 +1,12 @@
+# Visual Studio-specifika filer
+.vs/
+*.user
+*.suo
+
+# Build-resultat
+bin/
+obj/
+
+# Loggfiler
+*.log
+*.tmp
